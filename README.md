@@ -10,13 +10,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/tulsiid/leetcode-java/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/tulsiid/leetcode-java/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tulsiid/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/tulsiid/leetcode-java/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/tulsiid/leetcode-java/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tulsiid/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/tulsiid/leetcode-java/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
