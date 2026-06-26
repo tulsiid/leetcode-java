@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/tulsiid/leetcode-java/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/tulsiid/leetcode-java/tree/master/0394-decode-string) |
 ## Stack
@@ -53,4 +54,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tulsiid/leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tulsiid/leetcode-java/tree/master/0232-implement-queue-using-stacks) |
+## Hash Table
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
