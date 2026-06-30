@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/tulsiid/leetcode-java/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/tulsiid/leetcode-java/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/tulsiid/leetcode-java/tree/master/0415-add-strings) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/tulsiid/leetcode-java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/tulsiid/leetcode-java/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/tulsiid/leetcode-java/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/tulsiid/leetcode-java/tree/master/0456-132-pattern) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/tulsiid/leetcode-java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Array
 |  |
 | ------- |
