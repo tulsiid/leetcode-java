@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0057-insert-interval](https://github.com/tulsiid/leetcode-java/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/tulsiid/leetcode-java/tree/master/0068-text-justification) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tulsiid/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/tulsiid/leetcode-java/tree/master/0162-find-peak-element) |
