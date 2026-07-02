@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0057-insert-interval](https://github.com/tulsiid/leetcode-java/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/tulsiid/leetcode-java/tree/master/0068-text-justification) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tulsiid/leetcode-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tulsiid/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/tulsiid/leetcode-java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/tulsiid/leetcode-java/tree/master/0189-rotate-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tulsiid/leetcode-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tulsiid/leetcode-java/tree/master/0162-find-peak-element) |
 | [0456-132-pattern](https://github.com/tulsiid/leetcode-java/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/tulsiid/leetcode-java/tree/master/0875-koko-eating-bananas) |
