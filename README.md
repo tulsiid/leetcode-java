@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/tulsiid/leetcode-java/tree/master/0068-text-justification) |
 | [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/tulsiid/leetcode-java/tree/master/0227-basic-calculator-ii) |
+| [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/tulsiid/leetcode-java/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/tulsiid/leetcode-java/tree/master/0415-add-strings) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/tulsiid/leetcode-java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -83,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+| [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+| [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/tulsiid/leetcode-java/tree/master/1323-maximum-69-number) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
