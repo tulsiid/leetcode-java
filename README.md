@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/tulsiid/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tulsiid/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/tulsiid/leetcode-java/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/tulsiid/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
