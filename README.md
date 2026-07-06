@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tulsiid/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/tulsiid/leetcode-java/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/tulsiid/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/0876-middle-of-the-linked-list) |
 ## Number Theory
 |  |
 | ------- |
