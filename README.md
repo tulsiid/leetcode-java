@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/tulsiid/leetcode-java/tree/master/1006-clumsy-factorial) |
 | [1323-maximum-69-number](https://github.com/tulsiid/leetcode-java/tree/master/1323-maximum-69-number) |
 | [2413-smallest-even-multiple](https://github.com/tulsiid/leetcode-java/tree/master/2413-smallest-even-multiple) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tulsiid/leetcode-java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
