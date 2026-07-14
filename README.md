@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/tulsiid/leetcode-java/tree/master/1006-clumsy-factorial) |
 | [1323-maximum-69-number](https://github.com/tulsiid/leetcode-java/tree/master/1323-maximum-69-number) |
 | [2413-smallest-even-multiple](https://github.com/tulsiid/leetcode-java/tree/master/2413-smallest-even-multiple) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tulsiid/leetcode-java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tulsiid/leetcode-java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tulsiid/leetcode-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tulsiid/leetcode-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/tulsiid/leetcode-java/tree/master/1288-remove-covered-intervals) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tulsiid/leetcode-java/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tulsiid/leetcode-java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tulsiid/leetcode-java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tulsiid/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/tulsiid/leetcode-java/tree/master/2413-smallest-even-multiple) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tulsiid/leetcode-java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Database
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tulsiid/leetcode-java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tulsiid/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
