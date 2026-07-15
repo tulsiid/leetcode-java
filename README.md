@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tulsiid/leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/tulsiid/leetcode-java/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/tulsiid/leetcode-java/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/tulsiid/leetcode-java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tulsiid/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/tulsiid/leetcode-java/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/0234-palindrome-linked-list) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/tulsiid/leetcode-java/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/tulsiid/leetcode-java/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/tulsiid/leetcode-java/tree/master/1288-remove-covered-intervals) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/tulsiid/leetcode-java/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/tulsiid/leetcode-java/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/tulsiid/leetcode-java/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/tulsiid/leetcode-java/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tulsiid/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/0234-palindrome-linked-list) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tulsiid/leetcode-java/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/tulsiid/leetcode-java/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tulsiid/leetcode-java/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/tulsiid/leetcode-java/tree/master/0148-sort-list) |
 ## Depth-First Search
 |  |
 | ------- |
