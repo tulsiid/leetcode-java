@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tulsiid/leetcode-java/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/tulsiid/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/tulsiid/leetcode-java/tree/master/0456-132-pattern) |
+| [0560-subarray-sum-equals-k](https://github.com/tulsiid/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/tulsiid/leetcode-java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tulsiid/leetcode-java/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tulsiid/leetcode-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tulsiid/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/tulsiid/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tulsiid/leetcode-java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/tulsiid/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tulsiid/leetcode-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
