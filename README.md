@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tulsiid/leetcode-java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tulsiid/leetcode-java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tulsiid/leetcode-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tulsiid/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tulsiid/leetcode-java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tulsiid/leetcode-java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tulsiid/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tulsiid/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/tulsiid/leetcode-java/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/tulsiid/leetcode-java/tree/master/0415-add-strings) |
 | [1006-clumsy-factorial](https://github.com/tulsiid/leetcode-java/tree/master/1006-clumsy-factorial) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tulsiid/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tulsiid/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tulsiid/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/tulsiid/leetcode-java/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/tulsiid/leetcode-java/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tulsiid/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tulsiid/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/tulsiid/leetcode-java/tree/master/2413-smallest-even-multiple) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tulsiid/leetcode-java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tulsiid/leetcode-java/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tulsiid/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
