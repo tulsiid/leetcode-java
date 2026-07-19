@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/tulsiid/leetcode-java/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/tulsiid/leetcode-java/tree/master/0415-add-strings) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/tulsiid/leetcode-java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tulsiid/leetcode-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/tulsiid/leetcode-java/tree/master/0456-132-pattern) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/tulsiid/leetcode-java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-clumsy-factorial](https://github.com/tulsiid/leetcode-java/tree/master/1006-clumsy-factorial) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/tulsiid/leetcode-java/tree/master/0456-132-pattern) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Ordered Set
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/tulsiid/leetcode-java/tree/master/1323-maximum-69-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tulsiid/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
