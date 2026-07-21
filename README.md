@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tulsiid/leetcode-java/tree/master/0415-add-strings) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/tulsiid/leetcode-java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/tulsiid/leetcode-java/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tulsiid/leetcode-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/tulsiid/leetcode-java/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/tulsiid/leetcode-java/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
 |  |
 | ------- |
