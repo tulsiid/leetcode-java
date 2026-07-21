@@ -14,8 +14,8 @@ class Solution {
             int val=map.getOrDefault(ch,0);
             if(val>0) count--;
             map.put(ch,val-1);
-            if(count==0) return true;
-            if(r-l+1==s1.length())
+            
+            if(r-l+1>s1.length())
             {
                 char leftchar=s2.charAt(l);
                 int leftval=map.get(leftchar);
@@ -24,6 +24,7 @@ class Solution {
                 l++;
              
             }
+            if(count==0) return true;
         }
         return false;
         
