@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/tulsiid/leetcode-java/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tulsiid/leetcode-java/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tulsiid/leetcode-java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3913-sort-vowels-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/3913-sort-vowels-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tulsiid/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tulsiid/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tulsiid/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3913-sort-vowels-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/3913-sort-vowels-by-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tulsiid/leetcode-java/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tulsiid/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
+| [3913-sort-vowels-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/3913-sort-vowels-by-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
