@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/tulsiid/leetcode-java/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/tulsiid/leetcode-java/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tulsiid/leetcode-java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/tulsiid/leetcode-java/tree/master/0567-permutation-in-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/tulsiid/leetcode-java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tulsiid/leetcode-java/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tulsiid/leetcode-java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/tulsiid/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tulsiid/leetcode-java/tree/master/0567-permutation-in-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tulsiid/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/tulsiid/leetcode-java/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/tulsiid/leetcode-java/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [1288-remove-covered-intervals](https://github.com/tulsiid/leetcode-java/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tulsiid/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tulsiid/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tulsiid/leetcode-java/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/tulsiid/leetcode-java/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/tulsiid/leetcode-java/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tulsiid/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Queue
 |  |
@@ -351,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tulsiid/leetcode-java/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
