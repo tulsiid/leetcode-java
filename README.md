@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/tulsiid/leetcode-java/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tulsiid/leetcode-java/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tulsiid/leetcode-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tulsiid/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tulsiid/leetcode-java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tulsiid/leetcode-java/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tulsiid/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tulsiid/leetcode-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/tulsiid/leetcode-java/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tulsiid/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tulsiid/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tulsiid/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tulsiid/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/tulsiid/leetcode-java/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/tulsiid/leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tulsiid/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
