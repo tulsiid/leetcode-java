@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/tulsiid/leetcode-java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tulsiid/leetcode-java/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tulsiid/leetcode-java/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tulsiid/leetcode-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/tulsiid/leetcode-java/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tulsiid/leetcode-java/tree/master/1288-remove-covered-intervals) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/tulsiid/leetcode-java/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/tulsiid/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tulsiid/leetcode-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tulsiid/leetcode-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/tulsiid/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tulsiid/leetcode-java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/tulsiid/leetcode-java/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tulsiid/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tulsiid/leetcode-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
