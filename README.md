@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/tulsiid/leetcode-java/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/tulsiid/leetcode-java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tulsiid/leetcode-java/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/tulsiid/leetcode-java/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tulsiid/leetcode-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tulsiid/leetcode-java/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/tulsiid/leetcode-java/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/tulsiid/leetcode-java/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/tulsiid/leetcode-java/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tulsiid/leetcode-java/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/tulsiid/leetcode-java/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
