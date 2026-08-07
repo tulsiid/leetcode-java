@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/tulsiid/leetcode-java/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/tulsiid/leetcode-java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tulsiid/leetcode-java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tulsiid/leetcode-java/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/tulsiid/leetcode-java/tree/master/0068-text-justification) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tulsiid/leetcode-java/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/tulsiid/leetcode-java/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/tulsiid/leetcode-java/tree/master/1323-maximum-69-number) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tulsiid/leetcode-java/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/tulsiid/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/tulsiid/leetcode-java/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/tulsiid/leetcode-java/tree/master/0486-predict-the-winner) |
