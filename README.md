@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tulsiid/leetcode-java/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/tulsiid/leetcode-java/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/tulsiid/leetcode-java/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/tulsiid/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/tulsiid/leetcode-java/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/tulsiid/leetcode-java/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/tulsiid/leetcode-java/tree/master/0456-132-pattern) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/tulsiid/leetcode-java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tulsiid/leetcode-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tulsiid/leetcode-java/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/tulsiid/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/tulsiid/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/tulsiid/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/tulsiid/leetcode-java/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tulsiid/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
