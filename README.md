@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/tulsiid/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tulsiid/leetcode-java/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tulsiid/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/tulsiid/leetcode-java/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/tulsiid/leetcode-java/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tulsiid/leetcode-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tulsiid/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/tulsiid/leetcode-java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tulsiid/leetcode-java/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tulsiid/leetcode-java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/tulsiid/leetcode-java/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tulsiid/leetcode-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tulsiid/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tulsiid/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tulsiid/leetcode-java/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/tulsiid/leetcode-java/tree/master/1323-maximum-69-number) |
+| [2029-stone-game-ix](https://github.com/tulsiid/leetcode-java/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tulsiid/leetcode-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tulsiid/leetcode-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tulsiid/leetcode-java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tulsiid/leetcode-java/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/tulsiid/leetcode-java/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/tulsiid/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
+| [2029-stone-game-ix](https://github.com/tulsiid/leetcode-java/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tulsiid/leetcode-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tulsiid/leetcode-java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tulsiid/leetcode-java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -487,18 +491,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tulsiid/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tulsiid/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tulsiid/leetcode-java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/tulsiid/leetcode-java/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tulsiid/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tulsiid/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tulsiid/leetcode-java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/tulsiid/leetcode-java/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tulsiid/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tulsiid/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tulsiid/leetcode-java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/tulsiid/leetcode-java/tree/master/2029-stone-game-ix) |
 ## Interactive
 |  |
 | ------- |
@@ -516,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/tulsiid/leetcode-java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/tulsiid/leetcode-java/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
