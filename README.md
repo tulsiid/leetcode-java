@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/tulsiid/leetcode-java/tree/master/2029-stone-game-ix) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/tulsiid/leetcode-java/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tulsiid/leetcode-java/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/tulsiid/leetcode-java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tulsiid/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tulsiid/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tulsiid/leetcode-java/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tulsiid/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tulsiid/leetcode-java/tree/master/0567-permutation-in-string) |
 | [1386-cinema-seat-allocation](https://github.com/tulsiid/leetcode-java/tree/master/1386-cinema-seat-allocation) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/tulsiid/leetcode-java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tulsiid/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tulsiid/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tulsiid/leetcode-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
