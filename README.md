@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/tulsiid/leetcode-java/tree/master/0796-rotate-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/tulsiid/leetcode-java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1436-destination-city](https://github.com/tulsiid/leetcode-java/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/tulsiid/leetcode-java/tree/master/1773-count-items-matching-a-rule) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tulsiid/leetcode-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tulsiid/leetcode-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/tulsiid/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/tulsiid/leetcode-java/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tulsiid/leetcode-java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/tulsiid/leetcode-java/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tulsiid/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/tulsiid/leetcode-java/tree/master/1470-shuffle-the-array) |
 | [1563-stone-game-v](https://github.com/tulsiid/leetcode-java/tree/master/1563-stone-game-v) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tulsiid/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tulsiid/leetcode-java/tree/master/0567-permutation-in-string) |
 | [1386-cinema-seat-allocation](https://github.com/tulsiid/leetcode-java/tree/master/1386-cinema-seat-allocation) |
+| [1436-destination-city](https://github.com/tulsiid/leetcode-java/tree/master/1436-destination-city) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tulsiid/leetcode-java/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tulsiid/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tulsiid/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
