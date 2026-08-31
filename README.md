@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/tulsiid/leetcode-java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/tulsiid/leetcode-java/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/tulsiid/leetcode-java/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/tulsiid/leetcode-java/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/tulsiid/leetcode-java/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/tulsiid/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/tulsiid/leetcode-java/tree/master/0347-top-k-frequent-elements) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/tulsiid/leetcode-java/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tulsiid/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/tulsiid/leetcode-java/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/tulsiid/leetcode-java/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/tulsiid/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/tulsiid/leetcode-java/tree/master/0414-third-maximum-number) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/tulsiid/leetcode-java/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tulsiid/leetcode-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
