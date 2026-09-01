@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tulsiid/leetcode-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tulsiid/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/tulsiid/leetcode-java/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/tulsiid/leetcode-java/tree/master/0713-subarray-product-less-than-k) |
 | [0845-longest-mountain-in-array](https://github.com/tulsiid/leetcode-java/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/tulsiid/leetcode-java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tulsiid/leetcode-java/tree/master/0877-stone-game) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/tulsiid/leetcode-java/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/tulsiid/leetcode-java/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/tulsiid/leetcode-java/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/tulsiid/leetcode-java/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tulsiid/leetcode-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tulsiid/leetcode-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/tulsiid/leetcode-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tulsiid/leetcode-java/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tulsiid/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/tulsiid/leetcode-java/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/tulsiid/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tulsiid/leetcode-java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tulsiid/leetcode-java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tulsiid/leetcode-java/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/tulsiid/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/tulsiid/leetcode-java/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/tulsiid/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/tulsiid/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tulsiid/leetcode-java/tree/master/1248-count-number-of-nice-subarrays) |
