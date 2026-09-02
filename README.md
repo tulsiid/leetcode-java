@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/tulsiid/leetcode-java/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tulsiid/leetcode-java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tulsiid/leetcode-java/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tulsiid/leetcode-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tulsiid/leetcode-java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tulsiid/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tulsiid/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tulsiid/leetcode-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/tulsiid/leetcode-java/tree/master/1695-maximum-erasure-value) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tulsiid/leetcode-java/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tulsiid/leetcode-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tulsiid/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tulsiid/leetcode-java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tulsiid/leetcode-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tulsiid/leetcode-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/tulsiid/leetcode-java/tree/master/1695-maximum-erasure-value) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/tulsiid/leetcode-java/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tulsiid/leetcode-java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tulsiid/leetcode-java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tulsiid/leetcode-java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tulsiid/leetcode-java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
