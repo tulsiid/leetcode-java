@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/tulsiid/leetcode-java/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/tulsiid/leetcode-java/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/tulsiid/leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/tulsiid/leetcode-java/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/tulsiid/leetcode-java/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/tulsiid/leetcode-java/tree/master/0383-ransom-note) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tulsiid/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tulsiid/leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/tulsiid/leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/tulsiid/leetcode-java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/tulsiid/leetcode-java/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/tulsiid/leetcode-java/tree/master/0290-word-pattern) |
