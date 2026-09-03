@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tulsiid/leetcode-java/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/tulsiid/leetcode-java/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tulsiid/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/tulsiid/leetcode-java/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/tulsiid/leetcode-java/tree/master/0227-basic-calculator-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/tulsiid/leetcode-java/tree/master/0006-zigzag-conversion) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tulsiid/leetcode-java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/tulsiid/leetcode-java/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/tulsiid/leetcode-java/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/tulsiid/leetcode-java/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/tulsiid/leetcode-java/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/tulsiid/leetcode-java/tree/master/0076-minimum-window-substring) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tulsiid/leetcode-java/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/tulsiid/leetcode-java/tree/master/1386-cinema-seat-allocation) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tulsiid/leetcode-java/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/tulsiid/leetcode-java/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/tulsiid/leetcode-java/tree/master/0415-add-strings) |
 | [1006-clumsy-factorial](https://github.com/tulsiid/leetcode-java/tree/master/1006-clumsy-factorial) |
