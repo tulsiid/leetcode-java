@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/tulsiid/leetcode-java/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/tulsiid/leetcode-java/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/tulsiid/leetcode-java/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/tulsiid/leetcode-java/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/tulsiid/leetcode-java/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/tulsiid/leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/tulsiid/leetcode-java/tree/master/0227-basic-calculator-ii) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/tulsiid/leetcode-java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tulsiid/leetcode-java/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/tulsiid/leetcode-java/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/tulsiid/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/tulsiid/leetcode-java/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/tulsiid/leetcode-java/tree/master/0486-predict-the-winner) |
