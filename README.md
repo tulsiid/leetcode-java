@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tulsiid/leetcode-java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tulsiid/leetcode-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tulsiid/leetcode-java/tree/master/0189-rotate-array) |
+| [0213-house-robber-ii](https://github.com/tulsiid/leetcode-java/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tulsiid/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/tulsiid/leetcode-java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/tulsiid/leetcode-java/tree/master/0229-majority-element-ii) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tulsiid/leetcode-java/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/tulsiid/leetcode-java/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/tulsiid/leetcode-java/tree/master/0152-maximum-product-subarray) |
+| [0213-house-robber-ii](https://github.com/tulsiid/leetcode-java/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tulsiid/leetcode-java/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/tulsiid/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0845-longest-mountain-in-array](https://github.com/tulsiid/leetcode-java/tree/master/0845-longest-mountain-in-array) |
