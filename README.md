@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tulsiid/leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/tulsiid/leetcode-java/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/tulsiid/leetcode-java/tree/master/0713-subarray-product-less-than-k) |
+| [0835-image-overlap](https://github.com/tulsiid/leetcode-java/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/tulsiid/leetcode-java/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/tulsiid/leetcode-java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tulsiid/leetcode-java/tree/master/0877-stone-game) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/tulsiid/leetcode-java/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/tulsiid/leetcode-java/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tulsiid/leetcode-java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
