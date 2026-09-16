@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tulsiid/leetcode-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/tulsiid/leetcode-java/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/tulsiid/leetcode-java/tree/master/0227-basic-calculator-ii) |
+| [0279-perfect-squares](https://github.com/tulsiid/leetcode-java/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/tulsiid/leetcode-java/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/tulsiid/leetcode-java/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/tulsiid/leetcode-java/tree/master/0492-construct-the-rectangle) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/tulsiid/leetcode-java/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/tulsiid/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/tulsiid/leetcode-java/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/tulsiid/leetcode-java/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tulsiid/leetcode-java/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/tulsiid/leetcode-java/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/tulsiid/leetcode-java/tree/master/0486-predict-the-winner) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/tulsiid/leetcode-java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tulsiid/leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tulsiid/leetcode-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0279-perfect-squares](https://github.com/tulsiid/leetcode-java/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tulsiid/leetcode-java/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/tulsiid/leetcode-java/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tulsiid/leetcode-java/tree/master/3310-remove-methods-from-project) |
@@ -750,9 +753,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/tulsiid/leetcode-java/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tulsiid/leetcode-java/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/tulsiid/leetcode-java/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tulsiid/leetcode-java/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
