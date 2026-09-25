@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/tulsiid/leetcode-java/tree/master/0940-distinct-subsequences-ii) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/tulsiid/leetcode-java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/tulsiid/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [1436-destination-city](https://github.com/tulsiid/leetcode-java/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tulsiid/leetcode-java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1773-count-items-matching-a-rule](https://github.com/tulsiid/leetcode-java/tree/master/1773-count-items-matching-a-rule) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/tulsiid/leetcode-java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-clumsy-factorial](https://github.com/tulsiid/leetcode-java/tree/master/1006-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/tulsiid/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/tulsiid/leetcode-java/tree/master/0740-delete-and-earn) |
 | [0791-custom-sort-string](https://github.com/tulsiid/leetcode-java/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/tulsiid/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
+| [1096-brace-expansion-ii](https://github.com/tulsiid/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tulsiid/leetcode-java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/tulsiid/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/tulsiid/leetcode-java/tree/master/1436-destination-city) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tulsiid/leetcode-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/tulsiid/leetcode-java/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/tulsiid/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/tulsiid/leetcode-java/tree/master/1288-remove-covered-intervals) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tulsiid/leetcode-java/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tulsiid/leetcode-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tulsiid/leetcode-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/tulsiid/leetcode-java/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tulsiid/leetcode-java/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/tulsiid/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/tulsiid/leetcode-java/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tulsiid/leetcode-java/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tulsiid/leetcode-java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -729,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/tulsiid/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tulsiid/leetcode-java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Quicksort
 |  |
