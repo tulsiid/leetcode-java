@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/tulsiid/leetcode-java/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/tulsiid/leetcode-java/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1436-destination-city](https://github.com/tulsiid/leetcode-java/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tulsiid/leetcode-java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1773-count-items-matching-a-rule](https://github.com/tulsiid/leetcode-java/tree/master/1773-count-items-matching-a-rule) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/tulsiid/leetcode-java/tree/master/1006-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tulsiid/leetcode-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/tulsiid/leetcode-java/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
@@ -788,4 +790,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tulsiid/leetcode-java/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
