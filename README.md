@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/tulsiid/leetcode-java/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tulsiid/leetcode-java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tulsiid/leetcode-java/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/tulsiid/leetcode-java/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/tulsiid/leetcode-java/tree/master/0068-text-justification) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tulsiid/leetcode-java/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tulsiid/leetcode-java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tulsiid/leetcode-java/tree/master/0144-binary-tree-preorder-traversal) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/tulsiid/leetcode-java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tulsiid/leetcode-java/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/tulsiid/leetcode-java/tree/master/0115-distinct-subsequences) |
@@ -806,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tulsiid/leetcode-java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
