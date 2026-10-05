@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tulsiid/leetcode-java/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tulsiid/leetcode-java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/tulsiid/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tulsiid/leetcode-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/tulsiid/leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/tulsiid/leetcode-java/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tulsiid/leetcode-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/tulsiid/leetcode-java/tree/master/0740-delete-and-earn) |
 | [0791-custom-sort-string](https://github.com/tulsiid/leetcode-java/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/tulsiid/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tulsiid/leetcode-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/tulsiid/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tulsiid/leetcode-java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/tulsiid/leetcode-java/tree/master/1386-cinema-seat-allocation) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tulsiid/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/tulsiid/leetcode-java/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/tulsiid/leetcode-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tulsiid/leetcode-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/tulsiid/leetcode-java/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tulsiid/leetcode-java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tulsiid/leetcode-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
