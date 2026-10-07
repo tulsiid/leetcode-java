@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/tulsiid/leetcode-java/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/tulsiid/leetcode-java/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0301-remove-invalid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tulsiid/leetcode-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tulsiid/leetcode-java/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/tulsiid/leetcode-java/tree/master/0394-decode-string) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tulsiid/leetcode-java/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/tulsiid/leetcode-java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tulsiid/leetcode-java/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tulsiid/leetcode-java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/tulsiid/leetcode-java/tree/master/0443-string-compression) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tulsiid/leetcode-java/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/tulsiid/leetcode-java/tree/master/0567-permutation-in-string) |
