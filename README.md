@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tulsiid/leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/tulsiid/leetcode-java/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/tulsiid/leetcode-java/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/tulsiid/leetcode-java/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tulsiid/leetcode-java/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/tulsiid/leetcode-java/tree/master/0394-decode-string) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tulsiid/leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tulsiid/leetcode-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/tulsiid/leetcode-java/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/tulsiid/leetcode-java/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/tulsiid/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/tulsiid/leetcode-java/tree/master/2685-count-the-number-of-complete-components) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/tulsiid/leetcode-java/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tulsiid/leetcode-java/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tulsiid/leetcode-java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Quicksort
